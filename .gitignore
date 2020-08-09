@@ -1,0 +1,8 @@
+*.sw
+[Dd]ebug/
+[Rr]elease/
+build/
+[Bb]bin/
+[Oo]bj/
+x64/
+x86/
